@@ -13,6 +13,28 @@
 )
 #set page(columns: 2)
 = Historie
+== die Erfindung des Basketball
+- Erfinder: Dr. James Naismith
+  - kanadische Arzt und Pädagoge
+  - die heutige bekannte version von Basketball
+  - im jahr 1891
+- konzept kam von von dem simplen Kinderspiel „ducks on a rock“ 
+#colbreak()
+#figure(
+  image("Dr._James_Naismith.jpg")
+)
+== die enwicklung von Basketball
+- anfangs wurde ein pfirschkorb genommen
+  - in 3,50m höhe aufgehangen
+- das erste netz war ein auffangnetz
+- 1906 erstes netz das von unten geöffnet war
+
+#colbreak()
+spielball
+- der spielball war eine art volleyball (Paneel-Bällen)
+ - geschnürte Basketbälle wurden verwendent bis in die 1940er
+  - herkunft der linienform auf dem basketball
+
 = Basketball
 == Aufbau des Spiels
 
