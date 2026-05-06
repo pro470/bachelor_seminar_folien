@@ -24,17 +24,32 @@
   image("Dr._James_Naismith.jpg")
 )
 == die enwicklung von Basketball
+Korb
 - anfangs wurde ein pfirschkorb genommen
   - in 3,50m höhe aufgehangen
 - das erste netz war ein auffangnetz
 - 1906 erstes netz das von unten geöffnet war
-
 #colbreak()
+
+  #figure(
+    image("FHItkBJXoAAHAkz.jpg", height: 50%)
+  )
+#pagebreak()
+
 spielball
 - der spielball war eine art volleyball (Paneel-Bällen)
  - geschnürte Basketbälle wurden verwendent bis in die 1940er
   - herkunft der linienform auf dem basketball
 
+#colbreak()
+
+#figure(
+  image("814304713.jpg", height: 40%)
+)
+
+#figure(
+  image("laced-ball.webp", height: 50%)
+)
 = Basketball
 == Aufbau des Spiels
 
@@ -71,34 +86,47 @@ Punktewertung
 
 == Regeln
 
+#set page(columns: 1)
+#grid(
+  columns: (1fr, 1fr), 
+  gutter: 10pt,        
+  [
 Fortbewegung mit den Basketball
+
 - nur mit den Händen
 - ball dribbeln
 - nach dribbeln nur zwei schritte
 - Sternschritt
-
-#colbreak()
-
+],
+  [
 Ausball
 
 - ball ist außerhalb der Grenzlinien
 - wichtig: ball in der luft = nicht außerhalb
 - Einwurf am Punkt wo der ball im aus ist 
+],
+  grid.cell(colspan: 2, align: center)[
+    -  
+  ]
+)
+
+
 
 //== Foulregeln
 
 
+#set page(columns: 2)
 = Position
 == Position
 - Positionen wahren nummeriert
-- im heutigen Basketball nicht mehr so streng
-- spieler haben oft mehr aufgaben 
 - Die 5 traditionellen Basketballpositionen:
  - Point Guard
  - Shooting Guard
  - Small Foward
  - Power Foward
  - Center
+- im heutigen Basketball nicht mehr so streng
+- spieler haben oft mehr aufgaben 
 #colbreak()
 #figure(
   image("basketball-positionen.webp")
@@ -144,8 +172,3 @@ Small Foward
 - holen die meisten rebounds
 - sind sehr nah am korb
 - moderne center müssen viel mehr können
-= berühmte Spieler
-== Micheal jordan
-== Stephen Curry 
-== Kevin Durant
-== Lebron james
