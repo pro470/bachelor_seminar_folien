@@ -5,7 +5,6 @@
   date: "07.05.2026",
   authors: ("Reynolds Adjei"),
 
-  // Optional (for more see docs at https://mdwm.org/diatypst/)
   ratio: 16/9,
   layout: "small",
   title-color: blue.darken(60%),
@@ -13,22 +12,22 @@
 )
 #set page(columns: 2)
 = Historie
-== die Erfindung des Basketball
+== Die Erfindung des Basketballs
 - Erfinder: Dr. James Naismith
   - kanadische Arzt und Pädagoge
-  - die heutige bekannte version von Basketball
+  - die heutige bekannte Version von Basketball
   - im jahr 1891
-- konzept kam von von dem simplen Kinderspiel „ducks on a rock“ 
+- Konzept kam von dem simplen Kinderspiel „ducks on a rock“ 
 #colbreak()
 #figure(
   image("Dr._James_Naismith.jpg")
 )
-== die enwicklung von Basketball
+== die Entwicklung von Basketball
 Korb
-- anfangs wurde ein pfirschkorb genommen
-  - in 3,50m höhe aufgehangen
-- das erste netz war ein auffangnetz
-- 1906 erstes netz das von unten geöffnet war
+- Anfangs wurde ein Pfirschkorb genommen
+  - in 3,50 m Höhe aufgehängt
+- Das erste Netz war ein Auffangnetz
+- 1906 erstes Netz das von unten geöffnet war
 #colbreak()
 
   #figure(
@@ -37,9 +36,9 @@ Korb
 #pagebreak()
 
 spielball
-- der spielball war eine art volleyball (Paneel-Bällen)
- - geschnürte Basketbälle wurden verwendent bis in die 1940er
-  - herkunft der linienform auf dem basketball
+- Der Spielball war eine Art Volleyball (Paneel-Bälle)
+ - Geschnürte Basketbälle wurden verwendet bis in die 1940er
+  - Herkunft der Linienform auf dem Basketball
 
 #colbreak()
 
@@ -56,8 +55,8 @@ spielball
 - Spielfeld
   - 26-28m lang
   - 14-15m breit
-  - Freiwurflinie 4,80-5,80m entfernt von der Endlinie
-  - Dreierlinie ca. 6,75m vom Korb entfernt
+  - Freiwurflinie 4,80-5,80 m entfernt von der Endlinie
+  - Dreierlinie ca. 6,75 m vom Korb entfernt
 - 2 Team
  - je 5 spieler
 - Schiedrichter
@@ -71,7 +70,7 @@ spielball
 
 Spielzeit
 
-- dauer: 4 x 10 Minuten
+- Dauer: 4 x 10 Minuten
   - Viertelpause: 2 Minuten
   - Halbzeitpause: 10 Minuten
 - Spielbeginn: Sprungball
@@ -81,7 +80,7 @@ Spielzeit
 Punktewertung
 
 - 2 Punkte innerhalb der Drei-Punkt-linie
-- 3 punkte für alle körbe  außerhalb der Drei-Punkt-linie
+- 3 Punkte für alle Körbe  außerhalb der Dreipunktlinie
 - 1 Punkt für jeden Freiwurf
 
 == Regeln
@@ -91,19 +90,19 @@ Punktewertung
   columns: (1fr, 1fr), 
   gutter: 10pt,        
   [
-Fortbewegung mit den Basketball
+Fortbewegung mit dem Basketball
 
 - nur mit den Händen
-- ball dribbeln
-- nach dribbeln nur zwei schritte
+- Ball dribbeln
+- nach Dribbeln nur zwei Schritte
 - Sternschritt
 ],
   [
 Ausball
 
-- ball ist außerhalb der Grenzlinien
-- wichtig: ball in der luft = nicht außerhalb
-- Einwurf am Punkt wo der ball im aus ist 
+- Ball ist außerhalb der Grenzlinien
+- Wichtig: Ball in der Luft = nicht außerhalb
+- Einwurf am Punkt wo der Ball im Aus ist 
 ],
   grid.cell(colspan: 2, align: center)[
     -  
@@ -118,57 +117,57 @@ Ausball
 #set page(columns: 2)
 = Position
 == Position
-- Positionen wahren nummeriert
+- Positionen waren nummeriert
 - Die 5 traditionellen Basketballpositionen:
  - Point Guard
  - Shooting Guard
- - Small Foward
- - Power Foward
+ - Small Forward
+ - Power Forward
  - Center
 - im heutigen Basketball nicht mehr so streng
-- spieler haben oft mehr aufgaben 
+- Spieler haben oft mehr Aufgaben 
 #colbreak()
 #figure(
   image("basketball-positionen.webp")
 )
 
 == Point Guard
-- traditionel die position 1
+- traditionell die Position 1
 - Game Manager in der Offense
-- bringt den ball in Richtung gegnerischen Korb
-- called spielzüge 
-- passt bälle an frei Mitspieler
-- braucht sehr hohes "ball iq"
+- Bringt den Ball in Richtung gegnerischen Korb
+- called Spielzüge 
+- Passt Bälle an frei Mitspieler
+- braucht sehr hohes "Ball iq"
 
 
 == Flügelspieler
 
  Shooting Guard
 
-- traditionel die position 2 
-- ist der beste werfer im Team 
-- Spielzüge sind an diesen spieler angespasst
-- in modernen basketball nicht mehr ein spieler
+- traditionell die Position 2 
+- Ist der beste Werfer im Team 
+- Spielzüge sind an diesen Spieler angepasst
+- in modernen Basketball nicht mehr ein Spieler
 #colbreak()
 Small Foward
-- traditionel die position 3
+- traditionell die Position 3
 - ähnlich zu shooting guard 
 - versucht mehr korbleger
-- allrounder position
+- Allrounder position
 
-== Power Foward
+== Power Forward
 
-- traditionel die position 4
-- eher die größeren spieler 
-- spielen nah am korb 
-- mit center für rebounds zu standing
+- traditionell die Position 4
+- eher die größeren Spieler 
+- spielen nah am Korb 
+- mit Center für Rebounds zuständig
 - werfen dennoch viel
 
 == Center
 
-- traditionel die position 5
+- traditionell die Position 5
 - die größten im Team 
-- machen die meisten korbleger
-- holen die meisten rebounds
-- sind sehr nah am korb
-- moderne center müssen viel mehr können
+- Machen die meisten Korbleger
+- holen die meisten Rebounds
+- sind sehr nah am Korb
+- moderne Center müssen viel mehr können
