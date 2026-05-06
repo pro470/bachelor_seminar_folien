@@ -105,7 +105,7 @@ Ausball
 - Einwurf am Punkt wo der Ball im Aus ist 
 ],
   grid.cell(colspan: 2, align: center)[
-    -  
+    - viel mehr Regeln im professionellen Basketball 
   ]
 )
 
