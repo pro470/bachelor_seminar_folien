@@ -171,3 +171,13 @@ Small Foward
 - holen die meisten Rebounds
 - sind sehr nah am Korb
 - moderne Center müssen viel mehr können
+
+= Quellen
+
+==
+
+https://basketball.de/allgemein/die-geschichte-des-basketballs/
+
+https://www.nike.com/de/a/positionen-beim-basketball
+
+https://www.basketball-bund.de/wp-content/uploads/sites/2/2021/09/Vereinfachte-Basketballregeln-1.pdf
